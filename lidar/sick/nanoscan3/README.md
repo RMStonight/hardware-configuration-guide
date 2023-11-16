@@ -8,9 +8,8 @@ _注：仅提供基础操作的参考_
 
 打开Sick软件"Safety Designer"
 
-<img src="img/001.png" width="157px" height='33px'>
+![图1](img/001.png)
 
 __搜索设备__
 
-
-<img src="img/002.png" width="80%">
+![图2](img/002.png)
