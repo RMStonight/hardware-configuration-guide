@@ -4,6 +4,6 @@
 
 > SICK
 >
-> > * [NanoScan3](#nanoscan3)
+> > * [NanoScan3]
 
-### NanoScan3
+[NanoScan3]:./lidar/sick/nanoscan3/README.md
