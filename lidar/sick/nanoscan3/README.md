@@ -1,6 +1,8 @@
 # Sick NanoScan3 配置指南
 
-[返回主页](../../../README.md)
+↩️[返回主页](../../../README.md)
+
+🔗[ros驱动Github链接](https://github.com/SICKAG/sick_safetyscanners-release)
 
 注：_仅提供基础操作的参考_
 
