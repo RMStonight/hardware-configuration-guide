@@ -2,7 +2,6 @@
 
 ↩️[返回主页](../../README.md)
 
-
 🔗[sick官方文档链接](https://www.sick.com/cn/zh/catalog/products/motion-control-sensors/absolute-encoders/ahsahm36/ahm36a-s3cc014x12/p/p345157?tab=downloadse)
 
 注：_仅提供基础操作的参考_
