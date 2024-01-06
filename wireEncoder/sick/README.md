@@ -30,6 +30,8 @@
 
 打开软件
 
+🔗[CAN分析仪软件资料下载链接](https://www.zhcxgd.com/ZLXZ.html)
+
 ![图5](img/005.png)
 
 点击 __【设备操作】-【打开设备】__
